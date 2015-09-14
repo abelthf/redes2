@@ -6,7 +6,7 @@ algoritmo para extrar dni
 for {
 
 
-iComentarios
+
 
 
 }
